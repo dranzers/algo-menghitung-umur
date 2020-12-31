@@ -1,5 +1,5 @@
 void main(List<String> args) {
-  String test = umur(tglLahir: '1995-03-20');
+  String test = umur(tglLahir: '1990-12-20');
   print(test);
 }
 
